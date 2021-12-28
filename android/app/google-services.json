@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1000150818236",
+    "firebase_url": "https://explorapurchase.firebaseio.com",
+    "project_id": "explorapurchase",
+    "storage_bucket": "explorapurchase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000150818236:android:e0c7d1cbdb07d71df8dfb9",
+        "android_client_info": {
+          "package_name": "com.example.explora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000150818236-37ie6frt91pikm1ar9k22ebas5ootbvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwfsvaMMAkHc9nZO0UAOXuDHdwrNNExAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000150818236-37ie6frt91pikm1ar9k22ebas5ootbvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
